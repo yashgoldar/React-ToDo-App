@@ -14,7 +14,7 @@ function App() {
       <input type="date" class="form-control" placeholder="Todo" aria-label="" />
       </div>
       <div className='col-2'>
-      <button type="button" class="btn btn-success">Add</button>
+      <button type="button" class="btn btn-success ygButton">Add</button>
       </div>
     </div>
 
